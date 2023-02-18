@@ -13,3 +13,9 @@ Per eseguire il progetto in locale:
   1.3 eseguire "npm start" per avviare il progetto
   
 Dopo di che il progetto verrà visualizzato nel browser a "localhost:3000/"
+
+
+A causa di una confusione fatta durante la consegna dei deliverables tramite google form abbiamo caricato la versione sbagliata del deliverable 4. Per questo
+abbiamo caricato nel git hub la versione finale del deliverable 4.
+
+I testing devono essere eseguiti uno alla volta modificando il nome dei file .test in modo che sia sempre solo uno a essere rinominato in modo "esempio.test"
